@@ -1,5 +1,10 @@
 # Simple-Telebot
-Telebot kutibxonasi yordamida foydalanuvchi malumotlarini oladigan va uni admin ga jo'natadigan bot yaratamiz
+## Pythonda Telebot kutibxonasi yordamida foydalanuvchi malumotlarini oladigan va uni admin ga jo'natadigan bot yaratamiz
+- Ishga tushirish:
+    - app.py faylidagi TOKEN va ADMINS dagi malumotlarni almashtiring
+    - Va loyihani ishga tushiring:
+        ```
+        python app.py
+        ``` 
 
-
-Telegramda @azamatcoders kanaliga obuna bo'ling
+# [Telegram kanalimga obuna bo'ling](@azamatcoders) 
