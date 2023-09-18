@@ -8,3 +8,4 @@
         ``` 
 
 # [Telegram kanalimga obuna bo'ling](@azamatcoders) 
+# [Instagramgaham 😅 ](https://instagram.com/azikk_0418)
